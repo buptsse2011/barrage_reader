@@ -1,2 +1,3 @@
-# barrage_reader
-弹幕阅读器-server
+# BarrageReader
+
+**BarrageReader** - *Android Client* : *Server*已经滚蛋了
